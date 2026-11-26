@@ -1,6 +1,6 @@
 """App 1 (from the shared skeleton): machine-sales quote.
 
-GAMA TRADE sells and services machines (compressors). This app turns a request
+Example Trading d.o.o. sells and services machines (compressors). This app turns a request
 ("3 compressors KS-22, service package, 12 months") into a priced quote and emits
 a signed receipt proving the arithmetic is right.
 """
